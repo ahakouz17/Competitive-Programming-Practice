@@ -16,7 +16,7 @@
  *
  * NOTE: Once the chain starts the terms are allowed to go above one million.
  *
- * Answer:
+ * Answer: 837799
  */
 
 #include <iostream>
