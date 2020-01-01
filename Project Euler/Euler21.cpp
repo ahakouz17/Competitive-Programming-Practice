@@ -12,7 +12,7 @@
  *
  * Evaluate the sum of all the amicable numbers under 10000.
  *
- * Answer:
+ * Answer: 31626
  */
 
 #include <iostream>
